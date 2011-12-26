@@ -561,6 +561,16 @@ span.jp-artist {
 	color:#8C7A99;
 }
 
+span.jp-album {
+	font-size:.8em;
+	color:#8C7A99;
+}
+
+span.jp-rating {
+	font-size:.8em;
+	color:#8C7A99;
+}
+
 /* @end */
 
 

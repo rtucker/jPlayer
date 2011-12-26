@@ -440,6 +440,14 @@ span.jp-artist {
 	font-size:.8em;
 	color:#666;
 }
+span.jp-album {
+	font-size:.8em;
+	color:#666;
+}
+span.jp-rating {
+	font-size:.8em;
+	color:#666;
+}
 
 /* @end */
 
